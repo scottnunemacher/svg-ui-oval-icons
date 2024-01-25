@@ -9,5 +9,5 @@ This SVG icon collection is based on a great icon pack called [Untitled UI Oval 
 The original attribution copy/paste from Jordan Hughes original work:
 "Vectors and icons by <a href="https://www.figma.com/@designer?ref=svgrepo.com" target="_blank">Jordan Hughes</a> in CC Attribution License via <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a>"
 
-"if I have seen further, it is by standing on the shoulders of giants."
+"if I have seen further, it is by standing on the shoulders of giants."\
 —Sir Isaac Newton
