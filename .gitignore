@@ -1,7 +1,2 @@
 # Ignore Mac system files.
 **/.DS_Store
-
-# Ignore Xcode config files.
-xcuserdata/
-*.xcscmblueprint
-*.xccheckout
